@@ -98,7 +98,7 @@ ul img {
     margin-right: -3%;
 }
 ul{
-    display: flex;
+    display:  flex;
     justify-content: space-between;
     margin: 0;
 }
